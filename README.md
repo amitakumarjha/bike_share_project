@@ -1,2 +1,1 @@
-# bike_share_project
-Bike Share application
+# bikeshare_project
